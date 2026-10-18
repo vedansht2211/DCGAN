@@ -15,18 +15,11 @@ The project explores adversarial learning by training the generator and discrimi
 
 ### Generated Images
 
-Add your generated output images in the `results/` folder and update the image paths below.
-
 ![Generated samples](results/output_1.png)
 ![Generated samples](results/output_2.png)
 
-<!-- If you have multiple output images, add more sections like this:
-![Generated samples at another epoch](results/generated_epoch_400.png)
--->
-
 ### Generator and Discriminator Loss
 
-Add your loss graph to the `results/` folder.
 
 ![Generator and Discriminator Loss](results/loss_graph.png)
 
